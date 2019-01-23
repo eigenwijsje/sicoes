@@ -1,0 +1,9 @@
+*.py[cod]
+.idea/
+SECRETS
+__pycache__/
+seguimiento/convocatorias.json
+seguimiento/files/
+seguimiento/seguimiento/db.sqlite3
+seguimiento/static/
+venv/
